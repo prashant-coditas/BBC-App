@@ -1,0 +1,62 @@
+[
+
+  {
+    yourReadingList: [
+      {
+        authorName: "freeCodeCamp",
+        title: "The secret afterlives of your smartphone",
+        subTitle: "Medium",
+        date: "April 09, 2019",
+        comments: 3,
+        isBookmarked: true,
+        authorAvatar: "https://avatars0.githubusercontent.com/u/9892522?v=3&s=200",
+        imageURL: "https://cdn.cnn.com/cnnnext/dam/assets/180519143858-109-royal-wedding-second-dress-overlay-tease.jpg",
+        description:"<p>Wait a minute. Wait a minute, Doc. Uhhh... Are you telling me that you built a time machine... out of a DeLorean?! Whoa. This is heavy.</p>"
+      },
+      {
+        authorName: "ThinkProgress",
+        title: "The Secret To Great Design? A Healthy Tolerance For Failure.",
+        subTitle: "Medium",
+        date: "April 09, 2019",
+        comments: 3,
+        isBookmarked: true,
+        authorAvatar: "https://www.underconsideration.com/brandnew/archives/thinkprogress_icon.png",
+        imageURL: "https://image.freepik.com/free-photo/business-people-handshake-greeting-deal-at-work_1150-645.jpg",
+        description:"<p>Wait a minute. Wait a minute, Doc. Uhhh... Are you telling me that you built a time machine... out of a DeLorean?! Whoa. This is heavy.</p>"
+      },
+      {
+        authorName: "Muzli - Design",
+        title: "Imagining an AI-First Student Experience",
+        subTitle: "Medium",
+        date: "April 09, 2019",
+        comments: 3,
+        isBookmarked: true,
+        authorAvatar: "https://pbs.twimg.com/profile_images/659710386069897216/C5GLKeIW.png",
+        imageURL: "https://image.freepik.com/free-photo/businessman-hands-using-cell-phone-with-financial-report-at-off_1150-644.jpg",
+        description:"<p>Wait a minute. Wait a minute, Doc. Uhhh... Are you telling me that you built a time machine... out of a DeLorean?! Whoa. This is heavy.</p>"
+      },
+      {
+        authorName: "AndroidPub",
+        title: "How I built a fully-automated system that restocks my kitchen’s coffee from Amazon",
+        subTitle: "Medium",
+        date: "April 09, 2019",
+        comments: 3,
+        isBookmarked: true,
+        authorAvatar: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Android_robot_2014.svg/1000px-Android_robot_2014.svg.png",
+        imageURL: "https://image.freepik.com/free-photo/employees-working-with-a-graphics-tablet_23-2147577287.jpg",
+        description:"<p>Wait a minute. Wait a minute, Doc. Uhhh... Are you telling me that you built a time machine... out of a DeLorean?! Whoa. This is heavy.</p>"
+      },
+      {
+        authorName: "Code Lik A Girl",
+        title: "Tesla Drivers Are Paying Big Bucks to Test Flawed Self-Driving Software",
+        subTitle: "Medium",
+        date: "April 09, 2019",
+        comments: 3,
+        isBookmarked: true,
+        authorAvatar: "https://cdn-images-1.medium.com/max/600/1*X5dVJL8qEZKrIJdblJe16Q.png",
+        imageURL: "https://image.freepik.com/free-photo/elegant-woman-with-a-laptop-listening-to-music_1208-194.jpg",
+        description:"<p>Wait a minute. Wait a minute, Doc. Uhhh... Are you telling me that you built a time machine... out of a DeLorean?! Whoa. This is heavy.</p>"
+      }
+    ]
+  }
+]
